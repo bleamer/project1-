@@ -4,3 +4,5 @@
 5: Added more text on newfeature branch
 6: Added more more text on newfeature branch
 7: Testing commit without add
+8: Testing commint without add again
+9: Testing commint without add again and again
